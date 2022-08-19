@@ -1,1 +1,1 @@
-git log master..update_script
+git pull
